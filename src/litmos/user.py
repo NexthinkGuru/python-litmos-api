@@ -34,6 +34,7 @@ class User(LitmosType):
         ('JobTitle', ''),
         ('CustomField1', ''),
         ('CustomField2', ''),
+        ('CustomField3', ''),
         ('CustomField4', ''),
         ('CustomField5', ''),
         ('CustomField6', ''),
